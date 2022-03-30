@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">dicerollerimage2</string>
+    <string name="diceRoller"></string>
+    <string name="resultText2">Insira um número</string>
+    <string name="roll_label">Roll</string>
+    <string name="edtNumber"></string>
+</resources>
